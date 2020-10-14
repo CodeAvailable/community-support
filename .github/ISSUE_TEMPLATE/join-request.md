@@ -9,8 +9,11 @@ assignees: shajeen
 
 #CodeWarrior
 
-### are you willing to contribute CodeWarrior?
+**1. Are you willing to contribute CodeWarrior?**
+Yes or No
 
-### have you read and accept CODE_OF_CONDUCT (https://github.com/CodeWarrier/community-support/blob/main/CODE_OF_CONDUCT.md) ?.
+**2. Have you read and accept CODE_OF_CONDUCT (https://github.com/CodeWarrier/community-support/blob/main/CODE_OF_CONDUCT.md) ?.**
+Yes or No
 
-### are you willing to have fun by helping other ?
+**3. Are you willing to have fun by helping other ?.**
+Yes or No
